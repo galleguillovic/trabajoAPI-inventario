@@ -1,0 +1,27 @@
+{
+  "name": "trabajoapi-inventario",
+  "version": "1.0.0",
+  "description": "Trabajo entregable de API en NODE  - Galleguillo Victoria Antonela",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galleguillovic/trabajoAPI-inventario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galleguillovic/trabajoAPI-inventario/issues"
+  },
+  "homepage": "https://github.com/galleguillovic/trabajoAPI-inventario#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
